@@ -1,2 +1,2 @@
 # Asmi
-website
+website untuk manusia
